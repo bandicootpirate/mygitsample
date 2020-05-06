@@ -1,3 +1,2 @@
-console.log("hello App")
-
-Print console.log
+#MYAPP
+This is my App
